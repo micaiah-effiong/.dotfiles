@@ -14,8 +14,7 @@ set $mod Mod4
 # custom config
 
 exec_always feh --bg-scale ~/.config/i3/wallpaper/i3-wallpaper.jpg
-exec_always --no-startup-id killall polybar
-exec_always --no-startup-id polybar
+exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
 # custom config end
 
