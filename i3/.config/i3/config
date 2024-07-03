@@ -13,6 +13,7 @@ set $mod Mod4
 
 # custom config
 
+exec_always --no-startup-id picom
 exec_always feh --bg-scale ~/.config/i3/wallpaper/i3-wallpaper.jpg
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
