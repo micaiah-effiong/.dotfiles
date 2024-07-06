@@ -1,0 +1,7 @@
+import = ["~/.config/alacritty/one_dark.toml"]
+
+[font]
+size = 7
+normal = { family = "RobotoMono Nerd Font", style = "Regular" }
+
+
