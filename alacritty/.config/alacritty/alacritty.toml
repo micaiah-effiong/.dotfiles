@@ -5,3 +5,6 @@ size = 7
 normal = { family = "RobotoMono Nerd Font", style = "Regular" }
 
 
+[window]
+opacity = 0.94
+
