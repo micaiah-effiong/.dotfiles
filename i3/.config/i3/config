@@ -18,6 +18,9 @@ exec_always --no-startup-id picom
 exec_always feh --bg-fill ~/.config/i3/wallpaper/i3-wallpaper.jpg
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
+# /usr/bin/gnome-keyring-daemon
+exec --no-startup-id gnome-keyring-daemon --start --components=pkcs11,secrets,ssh
+
 # custom config end
 
 
