@@ -12,7 +12,7 @@
 set $mod Mod4
 
 # custom config
-for_window [class="^.*"] border pixel 1
+for_window [class="^.*"] border pixel 4
 
 exec_always --no-startup-id picom
 exec_always feh --bg-fill ~/.config/i3/wallpaper/i3-wallpaper.jpg
