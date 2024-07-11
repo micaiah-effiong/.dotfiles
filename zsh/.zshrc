@@ -125,4 +125,7 @@ case ":$PATH:" in
 esac
 # pnpm end
 
+alias alac="alacritty --working-directory=$(pwd) &; disown"
+
 neofetch
+
