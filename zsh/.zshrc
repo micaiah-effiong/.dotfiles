@@ -125,7 +125,5 @@ case ":$PATH:" in
 esac
 # pnpm end
 
-source $HOME/.local/bin/goto.sh
-alias alac="alacritty --working-directory=$(pwd) &; disown"
 neofetch
 
