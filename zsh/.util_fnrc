@@ -1,0 +1,4 @@
+# Path to your custom scripts
+
+source $HOME/.local/bin/goto.sh
+source $HOME/.local/bin/alac.sh

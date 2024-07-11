@@ -125,5 +125,6 @@ case ":$PATH:" in
 esac
 # pnpm end
 
+source $HOME/.util_fnrc
 neofetch
 
