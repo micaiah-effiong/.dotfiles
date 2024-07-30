@@ -8,3 +8,5 @@ normal = { family = "RobotoMono Nerd Font", style = "Regular" }
 [window]
 opacity = 0.94
 
+[env]
+TERM = "xterm-256color"
