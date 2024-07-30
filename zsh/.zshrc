@@ -126,5 +126,6 @@ esac
 # pnpm end
 
 source $HOME/.util_fnrc
-neofetch
+# neofetch
+. "$HOME/.cargo/env"
 
